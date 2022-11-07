@@ -1,0 +1,17 @@
+Number of users registered:	2
+Number of tasks generated:	6
+
+
+admin:
+Tasks assigned:						2
+Percentage of tasks assigned:		33%
+Percentage of task completed:		50%
+Percentage of tasks incomplete:		50%
+Percentage of tasks overdue:		50%
+
+lyle:
+Tasks assigned:						4
+Percentage of tasks assigned:		67%
+Percentage of task completed:		50%
+Percentage of tasks incomplete:		50%
+Percentage of tasks overdue:		50%
