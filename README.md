@@ -1,4 +1,4 @@
-# Capstone-Project-3-L1
+# Task-Manger 2.0
 
 this is a further improvement on the task manager in Capstone-Project-2-L1
 
